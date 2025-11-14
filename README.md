@@ -1,6 +1,6 @@
-# Dan Bello – Data Analyst Portfolio
+# Daniel Bello – Data Analyst Portfolio
 
-Hi there 👋 I'm Dan, an aspiring data analyst passionate about turning raw data into meaningful insights.  
+Hi there 👋 I'm Daniel, an aspiring data analyst passionate about turning raw data into meaningful insights.  
 This portfolio showcases my learning journey and projects in **Excel**, **SQL**, **Power BI**, and **Python**.
 
 ---
