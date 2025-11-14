@@ -19,7 +19,7 @@ This portfolio showcases my learning journey and projects in **Excel**, **SQL**,
 - **Goal:** Analyzed regional sales performance to identify top-selling products.
 - **Tools:** Excel  
 - **Highlights:** Created interactive visuals and KPIs for decision-making.
-- 📎 [View Dashboard](link-to-your-dashboard)
+- 📎 [View Dashboard](https://drive.google.com/file/d/1U-NJDm_-ipE_kV1BE1LjMOokZkuaryO6/view?usp=sharing)
 
 
 - 📎 [View Notebook](link-to-your-notebook)
